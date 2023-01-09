@@ -17,7 +17,7 @@ Esses foram os casos de teste abordados na implementação do código de automat
  - Caso de teste 0: Verificar se, ao digitar “Selenium” a busca é feita corretamente.
  - Caso de teste 1: Clicar no botão “Pesquisa Google” sem digitar nada na caixa de busca (da página) e verificar se aparece uma mensagem ao usuário do tipo: “Digite alguma coisa inicialmente”.
  - Caso de teste 2: Digitar algo na caixa de busca e verificar se aparecem opções que completam o conteúdo buscado (auto-sugestão). Além disso, verifica, juntamente, o funcionamento do botão de limpar (que aparece assim que algo é digitado na caixa e pesquisa).
- - Caso de teste 3: Clicar no “Estou com sorte” e verificar se a página é redirecionda para a URL correta.
+ - Caso de teste 3: Clicar no “Estou com sorte” e verificar se a página é redirecionada para a URL correta.
  - Caso de teste 4: Verificar se o ícone de “teclado” aparece na barra de busca e sua descrição.
  - Caso de teste 5: Verificar se o ícone de “microfone” aparece na barra de busca e sua descrição.
  - Caso de teste 6: Verificar se o ícone de “câmera” aparece na barra de busca e sua descrição.
