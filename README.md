@@ -1,9 +1,12 @@
 # testeSelenium
+
+--> PROCESSOS PARA SUBIR A APLICAÇÃO NO GITHUB
 Para subir o projeto para o GitHub utilizou-se da própria ferramenta disponibilizada pelo Visual Studio, sendo que a mesma realiza a criação do repositório.
 
+--> CRÍTICAS À PÁGINA DO GOOGLE
 Quanto à página de buscas do Google, eu a considerei bastante usual, sendo que falhou em apenas um caso de testes que eu consegui pensar, sendo ele o caso de tentar fazer uma busca com o campo vazio e a página indicar ao usuário uma mensagem informando que ele deve digitar algo primeiro (dado que não é possível fazer a pesquisa dessa maneira). Nesse caso, a página não fornece tal indicação. No mais, considero a página intuitiva, objetiva (mas contendo recursos extras), boa usabilidade, acessível.
 
-========================================= DETALHES DO PROJETO =========================================
+--> DETALHES DO PROJETO
 
 Teste automatizado relativo à página principal do Google. Para tanto, utilizou-se a IDE do Visual Studio e a linguagem C#. Faz-se uma observação quanto à quantidade de Time.Sleep(tempo), sendo que alguns podem ser evitados, mas dado a travamentos em minha máquina, fizeram-se necessários.
 
